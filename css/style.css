@@ -7,17 +7,20 @@ body{
 }
 #boxMain{
 
-    position: relative;
+  /*  position: relative;
     z-index: 100;
     top: 300px;
-    left: 300px;
+    left: 300px;*/
+    background-color: brown;
 }
 .box{
     width: 100px;
     height: 100px;
     background-color: aquamarine;
-    position: absolute;
-    z-index: 99;
+    margin-bottom: 3px;
+   /* position: absolute;*/
+    /*z-index: 99;*/
+    float: left;
     
 }
 
@@ -30,14 +33,20 @@ header{
 }
 #boxBlack{
     background-color: black;
-    z-index: 100;
+   /* float: left;*/
+   /* z-index: 100;*/
 }
 #contenedor{
   /* margin-top: 50px;*/
   padding-top: 50px;
+  
     
 }
 #box01{
-    top: -100px;
-    left: -100px;
+    
+  /*  top: -100px;
+    left: -100px;*/
+}
+.clear{
+    clear: both;
 }
