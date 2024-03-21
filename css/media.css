@@ -1,0 +1,16 @@
+@media all and (max-width: 1000px) {
+    #boxMain{
+        background-color: rgb(44, 42, 165);
+      }
+}
+
+@media all and (max-width: 500px) {
+    #boxMain{
+        background-color: rgb(142, 165, 42);
+      }
+      .box{
+       
+        float: none;
+        
+    }
+}
