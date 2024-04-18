@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<gallery>
+    <category name="frutas">
+        <image url="foto01.jpg">
+            <title>test 1</title>
+        </image>
+        <image url="foto02.jpg">
+            <title>test 02</title>
+        </image>
+    </category>
+    <category name="Verduras">
+        <image url="foto01_v.jpg">
+            <title>test V</title>
+        </image>
+    </category>
+</gallery>

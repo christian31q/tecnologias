@@ -1,0 +1,26 @@
+{
+	"category": [
+		{
+			"image": [
+				{
+					"title": "test 1",
+					"_url": "foto01.jpg"
+				},
+				{
+					"title": "test 02",
+					"_url": "foto02.jpg"
+				}
+			],
+			"name": "frutas"
+		},
+		{
+			"image": [
+				{
+					"title": "test V",
+					"_url": "foto01_v.jpg"
+				}
+			],
+			"name": "Verduras"
+		}
+	]
+}
