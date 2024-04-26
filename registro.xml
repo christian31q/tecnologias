@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<registro>
+    <rol>
+        <id>001</id>
+        <nombre>Admin</nombre>
+        <usuario>
+            <nombre>Christian</nombre>
+            <apellido>Quintero</apellido>
+            <correo>christian.quintero@unimilitar.edu.co</correo>
+        </usuario>
+    </rol>
+    <rol>
+        <id>002</id>
+        <nombre>Usuario</nombre>
+        <usuario>
+            <nombre>Maria</nombre>
+            <apellido>Rojas</apellido>
+            <correo>maria@unimilitar.edu.co</correo>
+        </usuario>
+        <usuario>
+            <nombre>Carlos</nombre>
+            <apellido>Jimenez</apellido>
+            <correo>Carlos@unimilitar.edu.co</correo>
+        </usuario>
+    </rol>
+</registro>

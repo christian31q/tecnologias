@@ -1,0 +1,30 @@
+{
+    "roles": [
+        {
+            "id": "001",
+            "nombre": "Admin",
+            "usuario": {
+                "nombre": "Christian",
+                "apellido": "Quintero",
+                "correo": "christian.quintero@unimilitar.edu.co"
+            }
+        },
+        {
+            "id": "002",
+            "nombre": "Usuario",
+            "usuarios": [
+                {
+                    "nombre": "Maria",
+                    "apellido": "Rojas",
+                    "correo": "maria@unimilitar.edu.co"
+                },
+                {
+                    "nombre": "Carlos",
+                    "apellido": "Jimenez",
+                    "correo": "Carlos@unimilitar.edu.co"
+                }
+            ]
+        }
+    ]
+
+}
