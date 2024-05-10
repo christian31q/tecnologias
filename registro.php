@@ -2,6 +2,8 @@
 
 $name = $_POST;
 
-echo($name);
+$nombre = $_POST["name"];
+$precio = $_POST["precio"];
+$cantidad = $_POST["cantidad"];
 
 ?>
